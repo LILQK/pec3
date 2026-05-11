@@ -1,13 +1,14 @@
-# PEC3 · Manovich Reloaded  
+# PEC3 · Manovich Reloaded
+
 ## La hibridación en la era del software
 
-[![Última actualización](https://img.shields.io/github/last-commit/LILQK/pec3?style=for-the-badge&label=%C3%9Altima%20actualizaci%C3%B3n&color=111827)](https://github.com/LILQK/pec3/commits/main)
-[![Licencia: CC BY-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--SA%204.0-111827?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-sa/4.0/)
-![Tiempo de lectura](https://img.shields.io/badge/Tiempo%20de%20lectura-~5%20min-111827?style=for-the-badge)
+[Última actualización](https://github.com/LILQK/pec3/commits/main)
+[Licencia: CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Tiempo de lectura
 
-<img src="https://images.pexels.com/photos/834897/pexels-photo-834897.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Persona escribiendo y reflexionando (Pexels)" width="760" />
 
-**Autor:** Ethan  
+
+**Autor:** Ethan Navarro Gutierrez  
 **Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 > **Filosofía del proyecto**  
@@ -16,6 +17,7 @@
 ---
 
 ## Índice
+
 - [1. Fortnite y UEFN: el metamedio como ecosistema modular y social](#1-fortnite-y-uefn-el-metamedio-como-ecosistema-modular-y-social)
 - [2. Twitch: la retransmisión como composición de datos en tiempo real](#2-twitch-la-retransmisi%C3%B3n-como-composici%C3%B3n-de-datos-en-tiempo-real)
 - [Referencias bibliográficas](#referencias-bibliogr%C3%A1ficas)
@@ -23,9 +25,9 @@
 
 ---
 
-## 1. Fortnite y UEFN: el metamedio como ecosistema modular y social  [![Fortnite](https://img.shields.io/badge/Fortnite-111827?style=flat-square&logo=fortnite&logoColor=white)](https://www.fortnite.com/)
+## 1. Fortnite y UEFN: el metamedio como ecosistema modular y social  [Fortnite](https://www.fortnite.com/)
 
-<img src="https://images.pexels.com/photos/9072394/pexels-photo-9072394.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Setup de eSports (Pexels)" width="760" />
+
 
 Si observamos Fortnite a través de las gafas de Lev Manovich, resulta evidente que hace tiempo dejó de ser un simple videojuego para convertirse en un ecosistema mediático complejo. Ya en su base, Fortnite es un híbrido consumado. Fusiona el espacio tridimensional navegable e interactivo (un "nuevo medio" en su sentido estricto) con las arquitecturas de red, la comunicación social en tiempo real y la cultura del evento en directo (Manovich, 2013).
 
@@ -39,9 +41,9 @@ Este entorno compartido permite lo que Manovich llama **remezclabilidad profunda
 
 ---
 
-## 2. Twitch: la retransmisión como composición de datos en tiempo real  [![Twitch](https://img.shields.io/badge/Twitch-111827?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/)
+## 2. Twitch: la retransmisión como composición de datos en tiempo real  [Twitch](https://www.twitch.tv/)
 
-<img src="https://images.pexels.com/photos/6919949/pexels-photo-6919949.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Creación de contenido con micrófono (Pexels)" width="760" />
+
 
 El segundo caso nos lleva a Twitch y sus extensiones interactivas. Al igual que en el caso anterior, es crucial entender que Twitch *ya es*, desde su concepción, una profunda hibridación de medios. Tradicionalmente, la transmisión de vídeo en directo (como la televisión) era un flujo unidireccional y de "unimedio" (Manovich, 2013). Sin embargo, Twitch transforma el vídeo en tan solo una capa más dentro de una compleja composición digital.
 
@@ -57,7 +59,7 @@ Esta interactividad evidencia que en Twitch "los medios se convierten en softwar
 
 ### Referencias Bibliográficas
 
-* Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
+- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
 
 ---
 
@@ -75,14 +77,13 @@ En todos los casos, el criterio final de inclusión, edición y coherencia con l
 
 ### Cómo citar (cita y BibTeX)
 
-<details>
-<summary><strong>Cita sugerida (APA)</strong></summary>
+**Cita sugerida (APA)**
 
-Ethan. (2026). <em>PEC3 · Manovich Reloaded: La hibridación en la era del software</em> [Repositorio de GitHub]. UOC. https://github.com/LILQK/pec3
-</details>
+Ethan. (2026). *PEC3 · Manovich Reloaded: La hibridación en la era del software* [Repositorio de GitHub]. UOC. [https://github.com/LILQK/pec3](https://github.com/LILQK/pec3)
 
-<details>
-<summary><strong>BibTeX</strong></summary>
+
+
+**BibTeX**
 
 ```bibtex
 @misc{ethan2026pec3,
@@ -93,11 +94,13 @@ Ethan. (2026). <em>PEC3 · Manovich Reloaded: La hibridación en la era del soft
   url          = {https://github.com/LILQK/pec3}
 }
 ```
-</details>
+
+
 
 ---
 
 ### Créditos de imágenes
+
 - **Portada**: “Photo of Person Writing on Notebook” — JESHOOTS.com (Pexels) — `https://www.pexels.com/photo/photo-of-person-writing-on-notebook-834897/`
 - **Sección 1**: “Gaming Setup For Competitive Esports” — Yan Krukau (Pexels) — `https://www.pexels.com/photo/gaming-setup-for-competitive-esports-9072394/`
 - **Sección 2**: “A Woman Talking on a Microphone while Wearing a Headphone” — Kaboompics.com (Pexels) — `https://www.pexels.com/photo/a-woman-talking-on-a-microphone-while-wearing-a-headphone-6919949/`
