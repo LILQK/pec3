@@ -61,6 +61,18 @@ Esta interactividad evidencia que en Twitch "los medios se convierten en softwar
 
 ---
 
+### Uso de IA
+
+Este repositorio es el resultado de un trabajo de lectura, selección de casos y redacción crítica realizado por el autor. De forma complementaria, se recurrió a herramientas de IA **únicamente como asistencia editorial y de presentación**, con los siguientes fines:
+
+- **Pulido del diseño del README**: propuestas de estructura visual (separadores, jerarquía de títulos y navegación).
+- **Sugerencias de widgets y badges**: selección de indicadores informativos (licencia, última actualización, tiempo de lectura) adecuados para un repositorio académico.
+- **Ajustes de formato**: mejoras puntuales de legibilidad sin alterar el sentido del contenido.
+
+En todos los casos, el criterio final de inclusión, edición y coherencia con los objetivos de la PEC fue responsabilidad del autor.
+
+---
+
 ### Cómo citar (cita y BibTeX)
 
 <details>
