@@ -1,7 +1,7 @@
 # PEC3 · Manovich Reloaded  
 ## La hibridación en la era del software
 
-![Arte digital abstracto (Pexels)](https://images.pexels.com/photos/9977651/pexels-photo-9977651.jpeg?auto=compress&cs=tinysrgb&w=1600)
+<img src="https://images.pexels.com/photos/834897/pexels-photo-834897.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Persona escribiendo y reflexionando (Pexels)" width="760" />
 
 **Autor:** Ethan  
 **Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -21,7 +21,7 @@
 
 ## 1. Fortnite y UEFN: el metamedio como ecosistema modular y social
 
-![Setup de eSports (Pexels)](https://images.pexels.com/photos/9072394/pexels-photo-9072394.jpeg?auto=compress&cs=tinysrgb&w=1600)
+<img src="https://images.pexels.com/photos/9072394/pexels-photo-9072394.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Setup de eSports (Pexels)" width="760" />
 
 Si observamos Fortnite a través de las gafas de Lev Manovich, resulta evidente que hace tiempo dejó de ser un simple videojuego para convertirse en un ecosistema mediático complejo. Ya en su base, Fortnite es un híbrido consumado. Fusiona el espacio tridimensional navegable e interactivo (un "nuevo medio" en su sentido estricto) con las arquitecturas de red, la comunicación social en tiempo real y la cultura del evento en directo (Manovich, 2013).
 
@@ -35,7 +35,7 @@ Este entorno compartido permite lo que Manovich llama **remezclabilidad profunda
 
 ## 2. Twitch: la retransmisión como composición de datos en tiempo real
 
-![Creación de contenido con micrófono (Pexels)](https://images.pexels.com/photos/6919949/pexels-photo-6919949.jpeg?auto=compress&cs=tinysrgb&w=1600)
+<img src="https://images.pexels.com/photos/6919949/pexels-photo-6919949.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Creación de contenido con micrófono (Pexels)" width="760" />
 
 El segundo caso nos lleva a Twitch y sus extensiones interactivas. Al igual que en el caso anterior, es crucial entender que Twitch *ya es*, desde su concepción, una profunda hibridación de medios. Tradicionalmente, la transmisión de vídeo en directo (como la televisión) era un flujo unidireccional y de "unimedio" (Manovich, 2013). Sin embargo, Twitch transforma el vídeo en tan solo una capa más dentro de una compleja composición digital.
 
@@ -54,6 +54,6 @@ Esta interactividad evidencia que en Twitch "los medios se convierten en softwar
 ---
 
 ### Créditos de imágenes
-- **Portada**: “Digital Art Background” — Steve Johnson (Pexels) — `https://www.pexels.com/photo/digital-art-background-9977651/`
+- **Portada**: “Photo of Person Writing on Notebook” — JESHOOTS.com (Pexels) — `https://www.pexels.com/photo/photo-of-person-writing-on-notebook-834897/`
 - **Sección 1**: “Gaming Setup For Competitive Esports” — Yan Krukau (Pexels) — `https://www.pexels.com/photo/gaming-setup-for-competitive-esports-9072394/`
 - **Sección 2**: “A Woman Talking on a Microphone while Wearing a Headphone” — Kaboompics.com (Pexels) — `https://www.pexels.com/photo/a-woman-talking-on-a-microphone-while-wearing-a-headphone-6919949/`
