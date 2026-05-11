@@ -1,6 +1,9 @@
 # PEC3 · Manovich Reloaded  
 ## La hibridación en la era del software
 
+[![Fortnite](https://img.shields.io/badge/Fortnite-111827?style=for-the-badge&logo=fortnite&logoColor=white)](https://www.fortnite.com/)
+[![Twitch](https://img.shields.io/badge/Twitch-111827?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
+
 <img src="https://images.pexels.com/photos/834897/pexels-photo-834897.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Persona escribiendo y reflexionando (Pexels)" width="760" />
 
 **Autor:** Ethan  
