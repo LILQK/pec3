@@ -1,13 +1,11 @@
 # PEC3 · Manovich Reloaded  
 ## La hibridación en la era del software
 
-[![Fortnite](https://img.shields.io/badge/Fortnite-111827?style=for-the-badge&logo=fortnite&logoColor=white)](https://www.fortnite.com/)
-[![Twitch](https://img.shields.io/badge/Twitch-111827?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
-
 <img src="https://images.pexels.com/photos/834897/pexels-photo-834897.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Persona escribiendo y reflexionando (Pexels)" width="760" />
 
 **Autor:** Ethan  
-**Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+**Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
+[![Creative Commons](https://img.shields.io/badge/CC%20BY--SA%204.0-111827?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 > **Filosofía del proyecto**  
 > Este documento ha sido redactado bajo los principios de la cultura libre y el *crowdsourcing*, inspirado en la evolución colaborativa del software (como Linux o los repositorios de GitHub), permitiendo su reutilización, adaptación y distribución.
@@ -22,7 +20,7 @@
 
 ---
 
-## 1. Fortnite y UEFN: el metamedio como ecosistema modular y social
+## 1. Fortnite y UEFN: el metamedio como ecosistema modular y social  [![Fortnite](https://img.shields.io/badge/Fortnite-111827?style=flat-square&logo=fortnite&logoColor=white)](https://www.fortnite.com/)
 
 <img src="https://images.pexels.com/photos/9072394/pexels-photo-9072394.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Setup de eSports (Pexels)" width="760" />
 
@@ -36,7 +34,7 @@ Este entorno compartido permite lo que Manovich llama **remezclabilidad profunda
 
 ---
 
-## 2. Twitch: la retransmisión como composición de datos en tiempo real
+## 2. Twitch: la retransmisión como composición de datos en tiempo real  [![Twitch](https://img.shields.io/badge/Twitch-111827?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/)
 
 <img src="https://images.pexels.com/photos/6919949/pexels-photo-6919949.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Creación de contenido con micrófono (Pexels)" width="760" />
 
