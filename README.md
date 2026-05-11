@@ -73,29 +73,6 @@ Este repositorio es el resultado de un trabajo de lectura, selección de casos y
 
 En todos los casos, el criterio final de inclusión, edición y coherencia con los objetivos de la PEC fue responsabilidad del autor.
 
----
-
-### Cómo citar (cita y BibTeX)
-
-**Cita sugerida (APA)**
-
-Ethan. (2026). *PEC3 · Manovich Reloaded: La hibridación en la era del software* [Repositorio de GitHub]. UOC. [https://github.com/LILQK/pec3](https://github.com/LILQK/pec3)
-
-
-
-**BibTeX**
-
-```bibtex
-@misc{ethan2026pec3,
-  author       = {Ethan},
-  title        = {PEC3 · Manovich Reloaded: La hibridación en la era del software},
-  year         = {2026},
-  howpublished = {GitHub repository},
-  url          = {https://github.com/LILQK/pec3}
-}
-```
-
-
 
 ---
 
