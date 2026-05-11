@@ -1,11 +1,14 @@
 # PEC3 · Manovich Reloaded  
 ## La hibridación en la era del software
 
+[![Última actualización](https://img.shields.io/github/last-commit/LILQK/pec3?style=for-the-badge&label=%C3%9Altima%20actualizaci%C3%B3n&color=111827)](https://github.com/LILQK/pec3/commits/main)
+[![Licencia: CC BY-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--SA%204.0-111827?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-sa/4.0/)
+![Tiempo de lectura](https://img.shields.io/badge/Tiempo%20de%20lectura-~5%20min-111827?style=for-the-badge)
+
 <img src="https://images.pexels.com/photos/834897/pexels-photo-834897.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="Persona escribiendo y reflexionando (Pexels)" width="760" />
 
 **Autor:** Ethan  
-**Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
-[![Creative Commons](https://img.shields.io/badge/CC%20BY--SA%204.0-111827?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-sa/4.0/)
+**Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 > **Filosofía del proyecto**  
 > Este documento ha sido redactado bajo los principios de la cultura libre y el *crowdsourcing*, inspirado en la evolución colaborativa del software (como Linux o los repositorios de GitHub), permitiendo su reutilización, adaptación y distribución.
@@ -32,6 +35,8 @@ Como bien señala la crítica evolutiva, el medio original ya estaba hibridado. 
 
 Este entorno compartido permite lo que Manovich llama **remezclabilidad profunda** (Manovich, 2013). Los creadores no solo remezclan contenidos (como modelos 3D o texturas), sino que remezclan los *lenguajes* y *técnicas* de otros medios. De este modo, dentro del mismo ecosistema de Fortnite presenciamos conciertos interactivos, museos virtuales o experiencias narrativas que cruzan las fronteras entre el diseño de software y el arte digital de vanguardia. La hibridación aquí no es la suma mecánica de partes, sino una nueva "especie de medios" en continua mutación biológica y evolutiva (Manovich, 2013).
 
+([Back to top](#pec3--manovich-reloaded))
+
 ---
 
 ## 2. Twitch: la retransmisión como composición de datos en tiempo real  [![Twitch](https://img.shields.io/badge/Twitch-111827?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/)
@@ -46,6 +51,8 @@ En este contexto, las Twitch Extensions deben verse como módulos de software qu
 
 Esta interactividad evidencia que en Twitch "los medios se convierten en software" (Manovich, 2013). La retransmisión adquiere las operaciones universales de las interfaces gráficas y las redes sociales. Lo visual se hibrida con lo algorítmico, y la audiencia ya no consume una "representación" inalterable, sino que participa en una conversación bidireccional continua con la máquina y con el creador, cumpliendo la promesa del metamedio activo que imaginaron los pioneros del software (Manovich, 2013).
 
+([Back to top](#pec3--manovich-reloaded))
+
 ---
 
 ### Referencias Bibliográficas
@@ -54,7 +61,33 @@ Esta interactividad evidencia que en Twitch "los medios se convierten en softwar
 
 ---
 
+### Cómo citar (cita y BibTeX)
+
+<details>
+<summary><strong>Cita sugerida (APA)</strong></summary>
+
+Ethan. (2026). <em>PEC3 · Manovich Reloaded: La hibridación en la era del software</em> [Repositorio de GitHub]. UOC. https://github.com/LILQK/pec3
+</details>
+
+<details>
+<summary><strong>BibTeX</strong></summary>
+
+```bibtex
+@misc{ethan2026pec3,
+  author       = {Ethan},
+  title        = {PEC3 · Manovich Reloaded: La hibridación en la era del software},
+  year         = {2026},
+  howpublished = {GitHub repository},
+  url          = {https://github.com/LILQK/pec3}
+}
+```
+</details>
+
+---
+
 ### Créditos de imágenes
 - **Portada**: “Photo of Person Writing on Notebook” — JESHOOTS.com (Pexels) — `https://www.pexels.com/photo/photo-of-person-writing-on-notebook-834897/`
 - **Sección 1**: “Gaming Setup For Competitive Esports” — Yan Krukau (Pexels) — `https://www.pexels.com/photo/gaming-setup-for-competitive-esports-9072394/`
 - **Sección 2**: “A Woman Talking on a Microphone while Wearing a Headphone” — Kaboompics.com (Pexels) — `https://www.pexels.com/photo/a-woman-talking-on-a-microphone-while-wearing-a-headphone-6919949/`
+
+([Back to top](#pec3--manovich-reloaded))
