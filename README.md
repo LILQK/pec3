@@ -1,12 +1,27 @@
-# PEC3: Manovich Reloaded - La Hibridación en la Era del Software
+# PEC3 · Manovich Reloaded  
+## La hibridación en la era del software
 
-**Autor:** Ethan
-**Licencia:** Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)
-**Filosofía del proyecto:** Este documento ha sido redactado bajo los principios de la cultura libre y el *crowdsourcing*, inspirado en la evolución colaborativa del software (como Linux o los repositorios de GitHub), permitiendo su reutilización, adaptación y distribución.
+![Arte digital abstracto (Pexels)](https://images.pexels.com/photos/9977651/pexels-photo-9977651.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+**Autor:** Ethan  
+**Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+> **Filosofía del proyecto**  
+> Este documento ha sido redactado bajo los principios de la cultura libre y el *crowdsourcing*, inspirado en la evolución colaborativa del software (como Linux o los repositorios de GitHub), permitiendo su reutilización, adaptación y distribución.
 
 ---
 
-## 1. Fortnite y UEFN: El metamedio como ecosistema modular y social
+## Índice
+- [1. Fortnite y UEFN: el metamedio como ecosistema modular y social](#1-fortnite-y-uefn-el-metamedio-como-ecosistema-modular-y-social)
+- [2. Twitch: la retransmisión como composición de datos en tiempo real](#2-twitch-la-retransmisi%C3%B3n-como-composici%C3%B3n-de-datos-en-tiempo-real)
+- [Referencias bibliográficas](#referencias-bibliogr%C3%A1ficas)
+- [Créditos de imágenes](#cr%C3%A9ditos-de-im%C3%A1genes)
+
+---
+
+## 1. Fortnite y UEFN: el metamedio como ecosistema modular y social
+
+![Setup de eSports (Pexels)](https://images.pexels.com/photos/9072394/pexels-photo-9072394.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
 Si observamos Fortnite a través de las gafas de Lev Manovich, resulta evidente que hace tiempo dejó de ser un simple videojuego para convertirse en un ecosistema mediático complejo. Ya en su base, Fortnite es un híbrido consumado. Fusiona el espacio tridimensional navegable e interactivo (un "nuevo medio" en su sentido estricto) con las arquitecturas de red, la comunicación social en tiempo real y la cultura del evento en directo (Manovich, 2013).
 
@@ -18,7 +33,9 @@ Este entorno compartido permite lo que Manovich llama **remezclabilidad profunda
 
 ---
 
-## 2. Twitch: La retransmisión como composición de datos en tiempo real
+## 2. Twitch: la retransmisión como composición de datos en tiempo real
+
+![Creación de contenido con micrófono (Pexels)](https://images.pexels.com/photos/6919949/pexels-photo-6919949.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
 El segundo caso nos lleva a Twitch y sus extensiones interactivas. Al igual que en el caso anterior, es crucial entender que Twitch *ya es*, desde su concepción, una profunda hibridación de medios. Tradicionalmente, la transmisión de vídeo en directo (como la televisión) era un flujo unidireccional y de "unimedio" (Manovich, 2013). Sin embargo, Twitch transforma el vídeo en tan solo una capa más dentro de una compleja composición digital.
 
@@ -33,3 +50,10 @@ Esta interactividad evidencia que en Twitch "los medios se convierten en softwar
 ### Referencias Bibliográficas
 
 * Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
+
+---
+
+### Créditos de imágenes
+- **Portada**: “Digital Art Background” — Steve Johnson (Pexels) — `https://www.pexels.com/photo/digital-art-background-9977651/`
+- **Sección 1**: “Gaming Setup For Competitive Esports” — Yan Krukau (Pexels) — `https://www.pexels.com/photo/gaming-setup-for-competitive-esports-9072394/`
+- **Sección 2**: “A Woman Talking on a Microphone while Wearing a Headphone” — Kaboompics.com (Pexels) — `https://www.pexels.com/photo/a-woman-talking-on-a-microphone-while-wearing-a-headphone-6919949/`
